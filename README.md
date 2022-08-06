@@ -7,6 +7,7 @@ Hi there 👋 I'm thanit23 ban
 </p>
 
 ## 💻 Most Used Languages:
+<img src="https://camo.githubusercontent.com/5dfc77d44718b661d37df57fa09059c7599f61e2dc835b0b7eb3df15ab4ec1b4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74616e6e677579656e6974266c61796f75743d636f6d70616374267468656d653d676f7468616d"><img>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&theme=tokyonight"><img>
 </p>
