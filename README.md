@@ -1,4 +1,5 @@
-Hi there 👋 I'm thanit23 ban
+<p align="center">Hi there 👋 I'm thanit23 ban</p>
+<img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 ## Find me on:
 <p align="center">
  <a href="https://github.com/thanhit23" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" alt="Git" height="40" style="vertical-align:top; margin:4px;"> </a>
