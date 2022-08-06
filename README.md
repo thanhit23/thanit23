@@ -8,7 +8,6 @@ Hi there 👋 I'm thanit23 ban
 
 ## 💻 Most Used Languages:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&theme=tokyonight"><img>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham"><img>
 </p>
 
