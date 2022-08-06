@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋 I'm thanit23 ban</p>
+Hi there 👋 I'm thanit23 ban
 <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 ## Find me on:
 <p align="center">
