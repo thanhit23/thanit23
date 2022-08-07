@@ -1,4 +1,5 @@
 Hi there 👋 I'm thanit23 ban
+I'am 
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 </p>
