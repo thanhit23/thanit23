@@ -1,4 +1,14 @@
 Hi there 👋 I'm thanhit23 ban
+```JAVASCRIP#
+() => {
+  const fullName = 'Nguyễn Duy Thành';
+  const age = 2003;
+  const gender = 'Male';
+  const Address = 'Ngũ Hành Sơn; Việt Nam';
+  const colleges = 'Trường Cao Đẳng FPT Polytechnic';
+  const facebook = https://www.facebook.com/thanhit.23/;
+  const skills = '.......';
+}
 
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
