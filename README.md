@@ -4,14 +4,13 @@ Hi there 👋 I'm thanhit23 b.a.n
 </p>
 
 ``` javascript
-class myInfor {
+class MyInfor {
   constructor() {
     this.fullName = 'Nguyễn Duy Thành';
     this.age = 2003;
     this.gender = 'Male';
     this.address = 'Ngũ Hành Sơn; Việt Nam';
     this.colleges = 'Trường Cao Đẳng FPT Polytechnic';
-    this.facebook = 'https://www.facebook.com/thanhit.23/';
   }
 }
 ```
