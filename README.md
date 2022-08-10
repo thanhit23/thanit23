@@ -1,7 +1,7 @@
 Hi there 👋 I'm thanhit23 b.a.n
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
- ![alt](https://komarev.com/ghpvc/?username=thanhit23)
+ ![image](https://komarev.com/ghpvc/?username=thanhit23)
 </p>
 
 ``` javascript
