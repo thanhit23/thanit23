@@ -1,13 +1,14 @@
 Hi there 👋 I'm thanhit23 ban
 ``` javascript
-() => {
-  const fullName = 'Nguyễn Duy Thành';
-  const age = 2003;
-  const gender = 'Male';
-  const Address = 'Ngũ Hành Sơn; Việt Nam';
-  const colleges = 'Trường Cao Đẳng FPT Polytechnic';
-  const facebook = https://www.facebook.com/thanhit.23/;
-  const skills = '.......';
+class myInfor {
+  constructor() {
+    this.fullName = 'Nguyễn Duy Thành';
+    this.age = 2003;
+    this.gender = 'Male';
+    this.address = 'Ngũ Hành Sơn; Việt Nam';
+    this.colleges = 'Trường Cao Đẳng FPT Polytechnic';
+    this.facebook = 'https://www.facebook.com/thanhit.23/';
+  }
 }
 ```
 
