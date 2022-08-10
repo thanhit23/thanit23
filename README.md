@@ -1,4 +1,4 @@
-Hi there 👋 I'm thanhit23 ban
+Hi there 👋 I'm thanhit23 b.a.n
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 </p>
@@ -16,9 +16,7 @@ class myInfor {
 }
 ```
 
-
-
-## Find me on:
+## 🔍 Find me on:
 <p align="center">
  <a href="https://github.com/thanhit23" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" alt="Git" height="40" style="vertical-align:top; margin:4px;"> </a>
  <a href="https://www.facebook.com/thanhit.23" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/300px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px;"> </a>
