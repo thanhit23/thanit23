@@ -2,6 +2,7 @@ Hi there 👋 I'm thanhit23 ban
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 </p>
+
 ``` javascript
 class myInfor {
   constructor() {
