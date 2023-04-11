@@ -42,8 +42,8 @@ class MyInfor {
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham"><img>
 </p>
 <div style="width: 100%;display:flex; gap: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
- <img src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham" alt="thanhit23" />
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham" alt="thanhit23" />
 </div>
 
 ![](https://github.com/thanhit23/thanhit23/blob/output/github-contribution-grid-snake.svg)
