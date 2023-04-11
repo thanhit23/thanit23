@@ -23,15 +23,10 @@ class MyInfor {
 </p>
 
 ## 💻 Most Used Languages:
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham"><img>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
-</p>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham" alt="thanhit23" />
-</p>
+
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham)
+![language](https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham)
+![language](https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham)
 
 ## 🧰 Languages and Tools:
 <p align="center">
