@@ -29,6 +29,9 @@ class MyInfor {
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
 </p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en" alt="thanhit23" />
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
