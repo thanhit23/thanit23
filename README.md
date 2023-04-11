@@ -22,12 +22,6 @@ class MyInfor {
  <a href="https://www.instagram.com/thanhit_203/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px;"> </a>
 </p>
 
-## 💻 Most Used Languages:
-
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham)
-![language](https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham)
-![language](https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham)
-
 ## 🧰 Languages and Tools:
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
@@ -41,5 +35,15 @@ class MyInfor {
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongodb" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## 💻 Most Used Languages:
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham"><img>
+</p>
+<div style="width: 100%;display:flex; gap: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
+ <img src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham" alt="thanhit23" />
+</div>
 
 ![](https://github.com/thanhit23/thanhit23/blob/output/github-contribution-grid-snake.svg)
