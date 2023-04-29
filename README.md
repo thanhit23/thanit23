@@ -1,4 +1,4 @@
-Hi there 👋 I'm thanhit23 b.a.n
+Hi there 👋 I'm duythanh b.a.n
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 </p>
@@ -7,8 +7,8 @@ Hi there 👋 I'm thanhit23 b.a.n
 class MyInfor {
   constructor() {
     this.fullName = 'Nguyễn Duy Thành';
-    this.age = 2003;
-    this.gender = 'Male';
+    this.yearBirth = 2003;
+    this.gender = 'Nam';
     this.address = 'Ngũ Hành Sơn, Việt Nam';
     this.colleges = 'Trường Cao Đẳng FPT Polytechnic';
   }
