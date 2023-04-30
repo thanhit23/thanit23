@@ -1,4 +1,4 @@
-Hi there 👋 I'm duythanh b.a.n
+Hi there 👋 I'm duythanh
 <p align="start">
  <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
 </p>
