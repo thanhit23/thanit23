@@ -7,7 +7,7 @@ Hi there 👋 I'm duythanh
 class MyInfor {
   constructor() {
     this.fullName = 'Nguyễn Duy Thành';
-    this.yearBirth = 2003;
+    this.yearBirth = 2003 + 1;
     this.gender = 'Nam';
     this.address = 'Ngũ Hành Sơn, Việt Nam';
     this.colleges = 'Trường Cao Đẳng FPT Polytechnic';
