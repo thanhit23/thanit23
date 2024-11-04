@@ -1,49 +1,38 @@
-Hi there 👋 I'm duythanh
-<p align="start">
- <img src="https://komarev.com/ghpvc/?username=thanhit23"><img>
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ging
+============================================================================================================================
 
-``` javascript
-class MyInfor {
-  constructor() {
-    this.fullName = 'Nguyễn Duy Thành';
-    this.yearBirth = 2003;
-    this.gender = 'Nam';
-    this.address = 'Ngũ Hành Sơn, Việt Nam';
-    this.colleges = 'Trường Cao Đẳng FPT Polytechnic';
-  }
-}
-```
+Web Developer
+-------------
 
-## 🔍 Find me on:
-<p align="center">
- <a href="https://github.com/thanhit23" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/7df0b771c958e1037aaf92e60c9491f7d01628c31d70f822aebe153a2daf2c8a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769746875622f6769746875622d74696c652e737667" alt="Git" height="40" style="vertical-align:top; margin:4px;"> </a>
- <a href="https://www.facebook.com/thanhit.23" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/300px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px;"> </a>
- <a href="https://www.instagram.com/thanhit_203/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px;"> </a>
-</p>
+I've been learning to code for 2 years, proficient HTML, CSS, JavaScript, React, NextJS, Tailwind.
 
-## 🧰 Languages and Tools:
-<p align="center">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="Php" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongodb" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-## 💻 Most Used Languages:
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&layout=compact&theme=gotham"><img>
-</p>
-<div style="width: 100%;display:flex; gap: 15px;">
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&layout=compact&theme=gotham" alt="thanhit23" />
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&locale=en&layout=compact&theme=gotham" alt="thanhit23" />
-</div>
+*   🌍  I'm based in Da Nang, Viet Nam
+*   ✉️  You can contact me at [duythanhit203@gmail.com](mailto:duythanhit203@gmail.com)
+*   🧠  I'm learning Framework NestJS, Flutter### Skills 
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.facebook.com/thanhit.23" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/thanhit23" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/thanhit23"><img src="https://github-readme-stats.vercel.app/api?username=thanhit23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thanhit23's GitHub stats" /></a><a
+                      href="http://www.github.com/thanhit23"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=thanhit23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/thanhit23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhit23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/thanhit23/rose-petals" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thanhit23&repo=rose-petals&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ![](https://github.com/thanhit23/thanhit23/blob/output/github-contribution-grid-snake.svg)
